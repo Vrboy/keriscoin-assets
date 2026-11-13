@@ -4,20 +4,6 @@
   "description": "KerisCoin ialah prototaip token utiliti di rangkaian Solana untuk pembangunan ekosistem digital berkaitan aktiviti pendulangan dan kebolehkesanan emas. Versi Devnet ini adalah untuk ujian teknikal dan tidak mempunyai nilai kewangan.",
   "image": "https://raw.githubusercontent.com/Vrboy/keriscoin-assets/main/keriscoin-logo.png",
   "external_url": "https://github.com/Vrboy/keriscoin-assets",
-  "attributes": [
-    {
-      "trait_type": "Network",
-      "value": "Solana Devnet"
-    },
-    {
-      "trait_type": "Total Supply",
-      "value": "10,000,000,000"
-    },
-    {
-      "trait_type": "Decimals",
-      "value": "6"
-    }
-  ],
   "properties": {
     "files": [
       {
